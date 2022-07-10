@@ -1,15 +1,15 @@
 const positions = [
-  {
-    company: 'Hack Reactor',
-    position: 'Full-Stack Software Engineer',
-    link: 'https://www.hackreactor.com/learn-python-learn-javascript',
-    daterange: 'April 2022 - September 2022',
-    points: [
-      'Involved with structuring and executing real estate debt capital markets and mortgage-backed security (MBS) transactions.',
-      'Utilization of financial modeling and VBA coding language skills to create excel pricing models for capital markets trading.',
-      'Worked on several $300M+ real estate CMBS securitizations, pools consisting of ~100 loans secured by 2000+ properties.',
-    ],
-  },
+  // {
+  //   company: 'Hack Reactor',
+  //   position: 'Full-Stack Software Engineer',
+  //   link: 'https://www.hackreactor.com/learn-python-learn-javascript',
+  //   daterange: 'April 2022 - September 2022',
+  //   points: [
+  //     'Involved with structuring and executing real estate debt capital markets and mortgage-backed security (MBS) transactions.',
+  //     'Utilization of financial modeling and VBA coding language skills to create excel pricing models for capital markets trading.',
+  //     'Worked on several $300M+ real estate CMBS securitizations, pools consisting of ~100 loans secured by 2000+ properties.',
+  //   ],
+  // },
   {
     company: 'CoreVest Finance',
     position: 'Capital Markets Analyst',
@@ -29,6 +29,7 @@ const positions = [
     points: [
       'Created from scratch an excel model to forecast revenues and cash projections for Clarion’s largest performing industrial fund.',
       'Contributed in various projects throughout the year, optimizing cash management, daily reporting and liquidity oversight.',
+      'Worked on $10mm+ transactions, requiring extreme attention to detail and adhering to strict deadlines.',
     ],
   },
   {
@@ -39,6 +40,7 @@ const positions = [
     points: [
       'Day-to-day management of daily treasury outlook, cash positions, and liquidity, requiring extreme attention to detail',
       'Oversaw $4b+ in cash management and treasury operations that overlooked all the major divisions of Jefferies.',
+      'Extremely proficient with Excel. Automated various systematic processes using macros and VBA code.',
     ],
   },
   {

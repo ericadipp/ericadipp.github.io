@@ -26,7 +26,7 @@ const SideBar = () => (
         <br>
         </br>
         I am currently a Software Engineer who previously worked in Finance. I enjoy utilizing my Finance domain knowledge in tandem with my techincal skillsets
-        to enhance productivity for finance teams and technical teams.
+        to enhance productivity and build products for both finance and technical teams.
         </p>
       <ul className="actions">
         <li>

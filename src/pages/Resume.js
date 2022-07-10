@@ -19,6 +19,7 @@ import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
 import { skills, categories } from '../data/resume/skills';
 import Leadership from '../components/Resume/Leadership';
+const { PUBLIC_URL } = process.env;
 
 const sections = [
   'Technical Skills',
@@ -35,17 +36,22 @@ const Resume = () => (
   >
     <article className="post" id="resume">
       <header>
+
         <div className="title">
-          <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
-          <div className="link-container">
+          <h2 data-testid="heading"><Link to="resume">Erica's Resume</Link></h2>
+          <div>
+          <a href={`${PUBLIC_URL}/images/Erica Dippold Resume.pdf`} download="EricaResume">Download a PDF copy</a>
+          </div>
+          {/* <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
-          </div>
 
+          </div> */}
         </div>
       </header>
+
       <Courses data={courses} />
       <Education data={degrees} />
       <Project data={projects} />
