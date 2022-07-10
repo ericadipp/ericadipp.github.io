@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Shelen R. Ells's personal website. "}
+    description={"Erica Dippold's personal website. "}
   >
     <article className="post" id="index">
       <header>
@@ -20,7 +20,7 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Source available <a href="https://github.com/ShelenElls">here</a> </p>
+      <p> Source available <a href="https://github.com/ericadipp">here</a> </p>
     </article>
   </Main>
 );
