@@ -7,7 +7,7 @@ const Project = ({ data }) => (
   <div className="experience">
     <div className="link-to" id="experience" />
     <div className="title">
-      <h3>Technical Projects</h3>
+      <h3>Application Development Experience</h3>
     </div>
     {data.map((job) => (
       <Job

@@ -1,24 +1,21 @@
 const courses = [
   {
-    title: 'JavaScript'
+    title: 'JavaScript ES6+'
   },
   {
-    title: 'Python'
+    title: 'Python 3'
   },
   {
-    title: 'Django'
-  },
-  {
-    title: 'HTML5'
-  },
-  {
-    title: 'CSS/SCSS'
+    title: 'Django 4'
   },
   {
     title: 'React'
   },
   {
-    title: 'Node.js'
+    title: 'HTML5'
+  },
+  {
+    title: 'CSS'
   },
   {
     title: 'PostgreSQL/SQLite3/SQL'
@@ -27,14 +24,51 @@ const courses = [
     title: 'Docker'
   },
   {
+    title: 'Domain Driven Design'
+  },
+  {
     title: 'Mongo DB'
   },
   {
-    title: 'RESTful APIs'
+    title: 'Apache Kafka'
+  },
+  {
+    title: 'FASTAPI'
+  },
+  {
+    title: 'REST API'
   },
   {
     title: 'GitHub/Git'
   },
+  {
+    title: 'Microservices',
+  },
+  {
+    title: 'DOM Manipulation'
+  },
+  {
+    title: 'RabbitMQ',
+  },
+  {
+    title: 'Pandas',
+  },
+  {
+    title: 'Data Visualization',
+  },
+  {
+    title: 'Jupyter',
+  },
+  {
+    title: 'PyCharm',
+  },
+  {
+    title: 'Authentication',
+  },
+  {
+    title: 'Java',
+  }
+
 ];
 
 export default courses;

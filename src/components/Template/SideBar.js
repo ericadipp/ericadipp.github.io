@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Erica. I like productivity, learning, and optimizing processes. One of my favorite things to do is ask myself, <i>"how can I make this process more efficient?" </i>
-         and with that I continue to iterate and iterate until a system of efficiency is designed. I believe in long-term thinking, continuous self-improvement,
+         and with that I continue to iterate and iterate until a system of efficiency is designed. I believe in long-term thinking, continuous self-improvement, and utilizing mental models for efficient thinking.
         <br>
         </br>
         <br>

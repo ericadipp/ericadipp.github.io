@@ -1,46 +1,25 @@
 const data = [
   {
-    title: 'Sunflower',
-    subtitle: 'Passion Project',
-    image: '/images/projects/sunflower1.jpg',
-    link: 'https://github.com/ShelenElls/Sunflower-PersonalProject/blob/main/README.md',
-    date: '2022-5-01',
+    title: 'CarCar',
+    subtitle: 'The premiere solution for automobile dealership management!',
+    image: '/images/projects/carcarpic.jpg',
+    link: 'https://gitlab.com/Josiah.Pederson/project-beta',
+    date: '2022-6-01',
     desc:
-      'Built for personal use at this stage. '
-      + 'Sunflower is a total income, debt, and goal management website '
-      + 'used to separate and organize different streams of debt and income '
-      + 'alongside predictive models to assist the average american in becoming debt free.',
+      'Built a full-stack Django / React application with REST API architecture, 16+ React components and authentication features.'
+      + ' Designed the microservice-based application utilizing 7 Docker containers to ensure data integrity and horizontal scalability.'
+      + ' Developed an understanding of database communication by using polling techniques to share data between microservices'
   },
   {
     title: 'Conference GO',
     subtitle: 'Resource for in-person and virtual conference planner for attendees and presenters',
     image: '/images/projects/conferencego1.jpg',
-    link: 'https://github.com/ShelenElls/ConferenceJS/blob/main/README.md',
+    link: 'https://gitlab.com/ericadippold/fearless-frontend',
     date: '2022-6-01',
     desc:
-      'A full-stack project utalizing Python, Javascript, SQL, Django and React.'
-      + 'This project incorporates an API to collect information such as the weather '
-      + 'for the city at any given conference location.'
-  },
-  {
-    title: 'CarCar',
-    subtitle: 'The premiere solution for automobile dealership management!',
-    image: '/images/projects/carcarpic.jpg',
-    link: 'https://github.com/ShelenElls/CarCar/blob/main/README.md',
-    date: '2022-6-01',
-    desc:
-      'A full-stack project utalizing Python, Javascript, SQL, Django and React.'
-      + ''
-  },
-  {
-    title: 'Wardobify',
-    subtitle: 'Need to keep track of your shoes and hats? We have the solution for you!',
-    image: '/images/projects/shoe1.jpg',
-    link: 'https://github.com/ShelenElls/Wardrobify/blob/main/README.md',
-    date: '2022-6-01',
-    desc:
-      'A full-stack project utalizing Python, Javascript, SQL, Django and React.'
-      + ''
+      'Refactored a Django-based monolith application into microservices with modern architecture and React components.'
+      + ' Employed RabbitMQ pub/sub and middleware queuing between 3 microservices for efficient backend data communication. '
+      + ' Integrated 3 third-party APIs utilizing anti-corruption layers (ACLs) to ensure accurate data mapping.'
   },
 ];
 
