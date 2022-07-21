@@ -6,8 +6,8 @@ const data = [
     link: 'https://gitlab.com/kanye-rest/concert-buddy',
     date: '2022-7-01',
     desc:
-      'Developed a Django / React e-commerce application with functionalities such as authentication and friend messaging.'
-      + 'Interfaced with Setlist.fm API to provide upcoming concert data for users to find events by location to purchase or sell tickets.'
+      'Developed a Django / React e-commerce application with functionalities such as authentication and friend messaging. '
+      + 'Interfaced with Setlist.fm API to provide upcoming concert data for users to find events by location to purchase or sell tickets. '
       + 'Collaborated with 4 engineers to architect the design and features using Domain-Driven Design and an agile workflow.'
   },
   {
