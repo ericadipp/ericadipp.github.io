@@ -2,7 +2,7 @@ const data = [
   {
     title: 'Concert Buddy',
     subtitle: 'A ticket marketplace / friend connection website for upcoming local concerts',
-    image: '/images/projects/comingsoon.jpg',
+    image: '/images/projects/concertbuddy.jpg',
     link: 'https://gitlab.com/kanye-rest/concert-buddy',
     date: '2022-7-01',
     desc:
